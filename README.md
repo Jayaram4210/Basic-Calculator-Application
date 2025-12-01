@@ -1,45 +1,42 @@
-**Basic Calculator Application**
-A simple calculator built with Python that performs basic arithmetic operations. This project is designed to help beginners understand Python fundamentals and practice logical problem-solving.
+Project Title: Basic Calculator Application
 
-**Features**
-Addition
+Description: This is a Python-based calculator project that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It is designed as a beginner-friendly application to demonstrate Python fundamentals, logical problem-solving, and clean code practices. The project runs in a simple command-line interface, making it lightweight and easy to use.
 
-Subtraction
+Tech Stack:-
 
-Multiplication
+Python 3.x
 
-Division
+Installation Instructions:-
 
-Clear and user-friendly interface
+Clone the repository:
 
-**Project Structure**
-Basic_Calculator_Project.py → Main calculator script
+Code
+git clone https://github.com/Jayaram4210/Basic-Calculator-Application.git
+cd Basic-Calculator-Application
+Ensure Python 3.x is installed on your system.
 
-**Getting Started**
-**Prerequisites**: Python 3.x installed on your system
+Run the project:
 
-**Run the Project**: python Basic_Calculator_Project.py
+Code
+python Basic_Calculator_Project.py
+Features:-
 
-**Use Cases**
-Quick daily calculations
+Perform addition, subtraction, multiplication, and division
 
-Learning Python basics
+Simple and clear command-line interface
 
-Demonstrating simple CLI-based applications
+Lightweight and beginner-friendly
 
-**Future Improvements**
-Add advanced operations (square root, power, modulus)
+Easy to extend with more operations
 
-Improve error handling for invalid inputs
+Troubleshooting:-
 
-Optionally build a GUI with Tkinter or PyQt
+Ensure Python is correctly installed and added to PATH
 
-**Contributing**
-Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to improve.
+Run the script from the project directory
 
-**License**
-This project is licensed under the MIT License.
+Use valid numeric inputs to avoid errors
 
-**Author**
-Chintala Jayaram Bhavani Prasad 
-GitHub : https://github.com/Jayaram4210
+Author:- Chintala Jayaram Bhavani Prasad
+
+GitHub: https://github.com/Jayaram4210
